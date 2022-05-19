@@ -13,7 +13,10 @@
 </a>
 
 ## DoveSquareFE
-
+<a href="https://github.com/bigcheeses/DoveSquareFE/actions"><img alt="Test Status" src="https://github.com/bigcheeses/DoveSquareFE/workflows/Node.js%20CI/badge.svg" style="max-width: 100%;">
+</a>
+<a href="https://github.com/bigcheeses/DoveSquareFE"><img alt="Node.js Version" src="https://img.shields.io/badge/Node.js-12.x%20|%2014.x%20|%2016.x-blue" style="max-width: 100%;">
+</a>
 
 ## Docs
 
